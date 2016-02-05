@@ -15,7 +15,7 @@
     "hapi",
     "skeleton"
   ],
-  "author": "PGI Ltd",
+  "author": "Paul Fox",
   "license": "ISC",
   "dependencies": {
     "glue": "^2.4.0",
